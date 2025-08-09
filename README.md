@@ -1,2 +1,3 @@
 # sumayya
-this is my first github repo
+this is my first git repository
+Author-sumayya attar
